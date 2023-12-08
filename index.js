@@ -20,12 +20,12 @@ new Swiper(".image-slider", {
   loop: "true",
   autoHeight: "true",
 
-  // autoplay: {
-  //   delay: "1000",
-  //   stopOnLastSlide: "false",
-  //   diasbledOnInteraction: "true",
-  // },
-  // speed: "1000",
+  autoplay: {
+    delay: "1000",
+    stopOnLastSlide: "false",
+    diasbledOnInteraction: "true",
+  },
+  speed: "1000",
 
   // effect: "fade",
 
