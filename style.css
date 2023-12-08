@@ -26,6 +26,7 @@
 .image-slider-slide .swiper-slide {
 }
 .swiper-slide {
+  border-radius: 10px;
 }
 .image-slider-image {
   text-align: center;
